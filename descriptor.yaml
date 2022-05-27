@@ -1,8 +1,7 @@
-code: ent-prj-tmpl-node-bundle
-description: Template for ent projects
+code: ent-prj-tmpl-node-ms-bundle
+description: Node MS with websocket
 components:
   plugins:
     - plugins/entando-template-ms-plugin.yaml
 #  widgets:
 #    - ui/widgets/widgets-dir/et-widget/et-widget-descriptor.yaml
-
