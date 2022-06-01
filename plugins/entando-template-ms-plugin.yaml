@@ -1,4 +1,4 @@
-image: germanogiudici/node-kc-ws-microservice:0.0.1-SNAPSHOT
+image: germanogiudici/node-kc-ws-microservice:0.0.1
 dbms: none
 ingressPath: "/entando-template-node-ws-api"
 healthCheckPath: "/actuator/health"
